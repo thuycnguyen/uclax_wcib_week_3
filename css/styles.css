@@ -1,0 +1,27 @@
+body {
+  background-image: url("../images/heartbackground.jpg");
+  background-attachment: fixed;
+  font-family: Helvetica, sans-serif; }
+  body h1 {
+    color: #7f5a4d;
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    text-align: center; }
+  body h2 {
+    color: #7f5a4d;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px; }
+  body h3 {
+    color: #7f5a4d;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px; }
+  body .box {
+    float: left;
+    width: 650px;
+    height: 450px;
+    margin-right: 30px; }
+  body img {
+    width: 100%; }
